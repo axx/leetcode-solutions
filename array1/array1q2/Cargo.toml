@@ -1,0 +1,7 @@
+[package]
+name = "array1q2"
+description = "Shuffle the Array"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

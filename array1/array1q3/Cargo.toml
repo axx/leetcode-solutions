@@ -1,0 +1,7 @@
+[package]
+name = "array1q3"
+description = "Array 1 Q3. Max Consecutive Ones"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

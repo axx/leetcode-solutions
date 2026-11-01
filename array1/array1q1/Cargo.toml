@@ -1,0 +1,7 @@
+[package]
+name = "array1q1"
+description = "Concatenation of Array"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
