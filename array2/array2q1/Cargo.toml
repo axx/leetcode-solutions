@@ -1,0 +1,7 @@
+[package]
+name = "array2q1"
+description = "Array 2 Q1. Set Mismatch"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
