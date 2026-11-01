@@ -113,12 +113,13 @@ impl Solution {
             } else {
                 fid_stack.push(entry.fid);
             }
-            entries.push(entry);
+            prev_entry = Some(entry);
 
             if debug {
                 println!("Current exclusive times: {:?}", exclusive_times);
                 println!("Current fid stack: {:?}", fid_stack);
-                println!("Current entries: {:?}", entries);
+                println!("Previous entry: {:?}", prev_entry);
+                println!("Current entry: {:?}", entry);
                 println!("Current prev_end: {:?}", prev_end);
             }
         }
