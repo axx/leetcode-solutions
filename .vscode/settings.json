@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "monotonic_stack/mstackq2/Cargo.toml"
+    ]
+}
