@@ -1,6 +1,6 @@
 {
     "rust-analyzer.linkedProjects": [
-
+        "assignment/q1/Cargo.toml",
         "monotonic_stack/mstackq2/Cargo.toml",
         "monotonic_stack/mstackq3/Cargo.toml"
     ]
